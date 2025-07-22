@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an avid software dev and security enthusiast studying Computer Science at the University of Maryland, College Park.<br>
+I'm an avid software dev and security enthusiast studying Computer Science at the University of Maryland, College Park. I am currently a Security Engineering Intern at Google working extensively on Gemini Security through infrastructural security practice enforcement and conducting investigations on internal testing frameworks.<br>
 
 
 ## 🌐 Socials:
